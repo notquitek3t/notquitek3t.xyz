@@ -3,7 +3,7 @@ ________________________________________________________________________________
 
 my site lol
 
-(forked from https://github.com/kisslinux/kisslinux.github.io)
+(forked from https://github.com/notquitek3t/k3t.xyz)
 
 --- Dev Instructions
 if you're trying to make your own site based on this, follow below:
